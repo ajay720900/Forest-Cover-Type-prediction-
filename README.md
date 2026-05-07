@@ -205,7 +205,9 @@ Forest-Cover-Type-Prediction/
 
 ## Author
 Ajay Kumar
+
 Email: ajay62015k@gmail.com
+
 www.linkedin.com/in/ajay7209
 
 
